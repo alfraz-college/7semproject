@@ -10,19 +10,19 @@ h1 {
   text-shadow: 4px 0 #da0463;
 }
 
-.w {
+.a {
   background-image: url("images/tom1.png");
 }
 
-.a {
+.s {
   background-image: url("images/tom2.png");
 }
 
-.s {
+.d {
   background-image: url("images/tom3.png");
 }
 
-.d {
+.f {
   background-image: url("images/tom4.png");
 }
 
@@ -59,7 +59,7 @@ h1 {
 .drum {
   outline: none;
   border: 10px solid #404b69;
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: "Arvo", cursive;
   line-height: 2;
   font-weight: 900;
@@ -67,8 +67,8 @@ h1 {
   text-shadow: 3px 0 #dbedf3;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 125px;
+  height: 125px;
   text-align: center;
   margin: 10px;
   background-color: white;
