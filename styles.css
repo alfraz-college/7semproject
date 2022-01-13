@@ -10,6 +10,14 @@ h1 {
   text-shadow: 4px 0 #da0463;
 }
 
+#title {
+  margin-top: 100px;
+}
+
+#song-list-title {
+  padding-top: 2rem;
+}
+
 .a {
   background-image: url("images/tom1.png");
 }
@@ -47,7 +55,7 @@ h1 {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto;
 }
 
 .game-over {
@@ -64,9 +72,17 @@ h1 {
   color: red;
 }
 
-#song-title {
-  font-size: 2rem;
-  font-family: "Arvo", cursive; 
+.song-title {
+  font-size: 24px;
+  font-family: "Arvo", cursive;
+  color:aquamarine;
+  margin: 0; 
+}
+
+.song-container {
+  padding: 10px;
+  margin: 8px auto;
+  width: max-content;
 }
 
 .drum {
